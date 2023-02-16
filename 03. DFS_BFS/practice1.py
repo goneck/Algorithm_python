@@ -1,4 +1,5 @@
 # 음료수 얼려 먹기 149p
+# DFS 문제, stack 사용(list로 구현)
 
 n, m=map(int, input().split())
 graph=[]

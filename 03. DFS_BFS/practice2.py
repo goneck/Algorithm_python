@@ -1,4 +1,5 @@
 # 미로 탈출 152p
+# BFS 문제, queue 사용, deque 라이브러리 사용
 from collections import deque
 
 n, m=map(int, input().split())
